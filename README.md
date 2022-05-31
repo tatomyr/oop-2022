@@ -17,3 +17,5 @@
 ## Зміст
 
 [Денис Тучапський](./denys-tuchapskiy/README.md)
+
+[Юрчишин Назар](Nazar-Yurchyshyn/README.md)
