@@ -17,4 +17,5 @@
 ## Зміст
 
 [Денис Тучапський](./denys-tuchapskiy/README.md)
+
 [Мар'ян Ткачишин](./marian-tkachyshyn/README.md)
