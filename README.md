@@ -17,3 +17,5 @@
 ## Зміст
 
 [Денис Тучапський](./denys-tuchapskiy/README.md)
+
+[Максим Некига](./maksym-nekyha/README.md)
