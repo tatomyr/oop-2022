@@ -18,4 +18,8 @@
 
 [Денис Тучапський](./denys-tuchapskiy/README.md)
 
+<<<<<<< master
 [Мар'ян Ткачишин](./marian-tkachyshyn/README.md)
+=======
+[Максим Некига](./maksym-nekyha/README.md)
+>>>>>>> master
