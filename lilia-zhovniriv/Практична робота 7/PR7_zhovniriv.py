@@ -17,7 +17,7 @@ class baking:
         self.price = self.price + self.rising_prices
 
 
-    #Створив альтернативний конструктор
+    #Створила альтернативний конструктор
     @classmethod
     def from_string(cls, baking_str):
         filling, name, price, date = baking_str.split("-")
